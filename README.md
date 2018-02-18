@@ -1,7 +1,7 @@
 # hw3
 ## Работа с Google Forms
-[Cсылка на опрос] (https://docs.google.com/forms/d/1HPLix8GRybWJeyjHfRvdnWfIKCAWC53nlB04Xbq3xME/edit)
-[Таблица с результатами] (https://docs.google.com/spreadsheets/d/1r_mtxB8kHpuJHy_-m6fnhdAxId6FQlDqrbe6jO-xoNk/edit#gid=311714322)
+* [Cсылка на опрос](https://docs.google.com/forms/d/1HPLix8GRybWJeyjHfRvdnWfIKCAWC53nlB04Xbq3xME/edit)
+* [Таблица с результатами](https://docs.google.com/spreadsheets/d/1r_mtxB8kHpuJHy_-m6fnhdAxId6FQlDqrbe6jO-xoNk/edit#gid=311714322)
 
 ## Об опросе
 Мой опрос был посвящен ситуации с психическими расстройствами в современном обществе. Целью  опроса было выяснение того, насколько данная проблема распространена (в частности среди студентов) и какой процент от страдающих тем или иным расстройством действительно обращаются за помощью. Мою форму прошли 143 человека. Я не стала ограничиваться двадцатью респондентами в связи с важностью данной темы для меня. Для более полной картины мне было необходимо как можно больше ответов.
